@@ -1,11 +1,4 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
-</div>
 
-<!-- Apresentação-->
-<p>
   Olá, Eu sou o Gabriel! Estudante de Engenharia de Software.
 
 
@@ -23,6 +16,7 @@
 </details>
 
 <!-- Links -->
+💬 **▸ Contato**
 <div align="left">
   <a href="https://www.linkedin.com/in/gavendriel/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -38,7 +32,7 @@
   </a>
 </div>
 
-## 🔥 Skills
+## Skills
 <!-- Skills: Front-End -->
   <div style="flex-basis: 48%;">
     <h3>Front-End</h3>
@@ -70,3 +64,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 </div>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
