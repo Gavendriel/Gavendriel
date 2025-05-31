@@ -36,10 +36,12 @@
 <!-- Skills: Front-End -->
  
 
-  <div>
-  <div>
+ <div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+
+  <!-- Front-End -->
+  <div style="flex: 1; min-width: 200px;">
     <h3>Front-End</h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
@@ -49,9 +51,9 @@
   </div>
 
   <!-- Back-End -->
-  <div>
+  <div style="flex: 1; min-width: 200px;">
     <h3>Back-End</h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
@@ -59,13 +61,16 @@
   </div>
 
   <!-- Cloud -->
-  <div>
+  <div style="flex: 1; min-width: 200px;">
     <h3>Cloud</h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
     </div>
   </div>
+
+</div>
+
 
 </div>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
