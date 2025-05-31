@@ -1,10 +1,11 @@
+<div align="center">
 <p>
   Olá, Eu sou o Gabriel! Estudante de Engenharia de Software.
 
 
-  - Estou a procura da minha primeira oportunidade de trabalho na área.
+   Estou a procura da minha primeira oportunidade de trabalho na área.
 </p>
-
+</div>
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Sobre mim</summary>
