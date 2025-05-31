@@ -7,14 +7,12 @@
 </p>
 </div>
 <!-- Dropdown -->
-<details>
+
   <summary>👨‍💻 Mais sobre mim</summary>
 
   - 💬 Tenho 26 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Senai Félix Guisard. Com o objetivo de seguir evoluindo profissionalmente, iniciei um bacharelado em Engenharia de Software para aprofundar meus conhecimentos. Ao longo dos meus projetos acadêmicos, adquiri experiência prática no desenvolvimento Front-end, Back-end e Mobile.
 
   - ⚡ No meu tempo livre, gosto de ler mangás, assistir animes e séries, além de jogar cozy games. Acredito que nossos interesses pessoais enriquecem nossa percepção do mundo e contribuem significativamente para a criatividade e a resolução de problemas.
-
-</details>
 
 <br>
 
