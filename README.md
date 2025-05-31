@@ -16,7 +16,7 @@
 
 </details>
 
-<br><br>
+<br>
 
 <!-- Links -->
 <h1>💬 Contato:</h1>
@@ -34,7 +34,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-<br><br>
+<br>
 
 ## Skills
 <!-- Skills: Front-End -->
@@ -69,4 +69,6 @@
 <br><br>
 
 </div>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="400px" align-itens="center"/><br> 
+<div align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="500px"/>
+</div>
