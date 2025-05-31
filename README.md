@@ -36,7 +36,7 @@
 <!-- Skills: Front-End -->
  
 
- <div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+ <div style="display: flex; gap: 40px; flex-wrap: wrap; align-items: flex-start;">
 
   <!-- Front-End -->
   <div style="flex: 1; min-width: 200px;">
