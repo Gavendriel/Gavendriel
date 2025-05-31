@@ -8,13 +8,15 @@
 </div>
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 Sobre mim</summary>
+  <summary>👨‍💻 Mais sobre mim</summary>
 
   - 💬 Tenho 26 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Senai Félix Guisard. Com o objetivo de seguir evoluindo profissionalmente, iniciei um bacharelado em Engenharia de Software para aprofundar meus conhecimentos. Ao longo dos meus projetos acadêmicos, adquiri experiência prática no desenvolvimento Front-end, Back-end e Mobile.
 
   - ⚡ No meu tempo livre, gosto de ler mangás, assistir animes e séries, além de jogar cozy games. Acredito que nossos interesses pessoais enriquecem nossa percepção do mundo e contribuem significativamente para a criatividade e a resolução de problemas.
 
 </details>
+
+<br><br>
 
 <!-- Links -->
 <h1>💬 Contato:</h1>
@@ -32,6 +34,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+<br><br>
 
 ## Skills
 <!-- Skills: Front-End -->
@@ -63,7 +66,7 @@
   </div>
 
 </div>
-
+<br><br>
 
 </div>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="50%" align="center"/><br> 
